@@ -1,0 +1,24 @@
+﻿<Window x:Class="Vending.AdminPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vending"
+        mc:Ignorable="d"
+        Title="AdminPanel" Height="451.905" Width="699.524">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock TextAlignment="Center" FontSize="20">Административная панель</TextBlock>
+            <TextBlock Mouse.MouseUp="TextBlock_MouseEnter" TextAlignment="Center" FontSize="15">Монеты</TextBlock>
+            <TextBlock Mouse.MouseUp="TextBlock_MouseEnter_1" TextAlignment="Center" FontSize="15">Напитки</TextBlock>
+            <TextBlock Mouse.MouseUp="TextBlock_MouseEnter_2" TextAlignment="Center" FontSize="15">Отчет</TextBlock>
+        </StackPanel>
+        <Frame NavigationUIVisibility="Hidden" Grid.Row="1" x:Name="frame"/>
+        <Border BorderBrush="Black" BorderThickness="1"/>
+        
+    </Grid>
+</Window>

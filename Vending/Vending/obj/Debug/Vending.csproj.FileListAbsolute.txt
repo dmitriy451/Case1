@@ -1,0 +1,91 @@
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\bin\Debug\Vending.exe.config
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.csprojResolveAssemblyReference.cache
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\App.g.cs
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending_MarkupCompile.cache
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\bin\Debug\Vending.exe
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\bin\Debug\Vending.pdb
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\MainWindow.g.cs
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending_MarkupCompile.lref
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\MainWindow.baml
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.g.resources
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.Properties.Resources.resources
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.csproj.GenerateResource.Cache
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.exe
+c:\users\3-16-2\documents\visual studio 2015\Projects\Vending\Vending\obj\Debug\Vending.pdb
+C:\Users\Евгений\Desktop\Vending\Vending\bin\Debug\Vending.exe.config
+C:\Users\Евгений\Desktop\Vending\Vending\bin\Debug\Vending.exe
+C:\Users\Евгений\Desktop\Vending\Vending\bin\Debug\Vending.pdb
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.csproj.SuggestedBindingRedirects.cache
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\MainWindow.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\App.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending_MarkupCompile.cache
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending_MarkupCompile.lref
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\MainWindow.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.g.resources
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.csproj.GenerateResource.cache
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.exe
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\Vending.pdb
+C:\Users\3-16-2\Desktop\Vending\Vending\bin\Debug\Vending.exe.config
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.exe
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.pdb
+C:\Users\3-16-2\Desktop\Vending\Vending\bin\Debug\Vending.exe
+C:\Users\3-16-2\Desktop\Vending\Vending\bin\Debug\Vending.pdb
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.csprojResolveAssemblyReference.cache
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\MainWindow.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\App.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending_MarkupCompile.cache
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending_MarkupCompile.lref
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\MainWindow.baml
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.g.resources
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.Properties.Resources.resources
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\Vending.csproj.GenerateResource.Cache
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Drinks.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Moneta.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Report.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminPanel.g.cs
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Drinks.baml
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Moneta.baml
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminFunc\Report.baml
+C:\Users\3-16-2\Desktop\Vending\Vending\obj\Debug\AdminPanel.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Drinks.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Moneta.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Report.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminPanel.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Drinks.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Moneta.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\Report.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminPanel.baml
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\AddDrink.g.cs
+C:\Users\Евгений\Desktop\Vending\Vending\obj\Debug\AdminFunc\AddDrink.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.csproj.AssemblyReference.cache
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.csproj.SuggestedBindingRedirects.cache
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\AddDrink.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Drinks.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Moneta.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Report.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminPanel.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\MainWindow.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\App.g.cs
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending_MarkupCompile.cache
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending_MarkupCompile.lref
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.exe
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.pdb
+C:\Users\Евгений\source\repos\Vending\Vending\bin\Debug\Vending.exe.config
+C:\Users\Евгений\source\repos\Vending\Vending\bin\Debug\Vending.exe
+C:\Users\Евгений\source\repos\Vending\Vending\bin\Debug\Vending.pdb
+C:\Users\Евгений\source\repos\Vending\Vending\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Евгений\source\repos\Vending\Vending\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\AddDrink.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Drinks.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Moneta.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminFunc\Report.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\AdminPanel.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\MainWindow.baml
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.g.resources
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.Properties.Resources.resources
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Vending\Vending\obj\Debug\Vending.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6ea14a4-c486-4ba3-9fea-b0959766c3a7": {
+      "ProjectGuid": "c6ea14a4-c486-4ba3-9fea-b0959766c3a7",
+      "DisplayName": "VendingAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
