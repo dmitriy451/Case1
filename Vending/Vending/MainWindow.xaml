@@ -20,7 +20,7 @@
                 <RowDefinition Height="69*"/>
                 <RowDefinition Height="57*"/>
             </Grid.RowDefinitions>
-            <TextBox Text="0" Name="Summa"  Background="#FF4F4F4F" Margin="5" Foreground="White" FontSize="20" TextAlignment="Center"></TextBox>
+            <TextBox IsEnabled="False" Text="0" Name="Summa"  Background="#FF4F4F4F" Margin="5" Foreground="White" FontSize="20" TextAlignment="Center"></TextBox>
             <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
                 <StackPanel Orientation="Vertical">
                     <Button Name="Denom_1_act" Click="Button_Click" Height="50" Width="50" Margin="5">1</Button>
@@ -37,6 +37,8 @@
                 <TextBlock>3. Получите сдачу</TextBlock>
             </StackPanel>
             <Button Click="Button_Click_1" Grid.Row="3" Height="30" Width="70" Margin="5">Сдача</Button>
+            <Button Click="Button_Click_2" Grid.Row="3" Height="30" Width="30" FontSize="20" HorizontalAlignment="Right" Margin="5">#</Button>
+            
         </Grid>
         <ListView  Grid.Column="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionChanged="LViewDrinks_SelectionChanged"  Name="LViewDrinks">
             <ListView.ItemsPanel>

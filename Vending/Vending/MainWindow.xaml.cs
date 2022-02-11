@@ -70,22 +70,9 @@ namespace Vending
 
         float Count = 0;
         List<Drink> Drinks = new List<Drink>();
-        string Secret_key = "1210"; //51021210
-        string Secret_key_input;
+        
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Secret_key_input += (sender as Button).Content;
-            if(Secret_key_input.Length >= Secret_key.Length)
-            {
-                if (Secret_key_input == Secret_key)
-                {
-                    Summa.Text = "";
-                    Secret_key_input = "";
-                    MessageBox.Show("Вы вошли в админ панель");
-                    AdminPanel adminPanel = new AdminPanel();
-                    adminPanel.ShowDialog();
-                }
-            }
             Count += Convert.ToInt32((sender as Button).Content);
             var httpWebRequest = (HttpWebRequest)WebRequest.Create($"http://localhost:64054/api/addMonetka?denomination={(sender as Button).Content}");
             httpWebRequest.ContentType = "application/json";
@@ -105,7 +92,6 @@ namespace Vending
         
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Secret_key_input = "";
             if (Count > 0) {
             MessageBox.Show("Возьмите сдачу: " + Summa.Text);
             Count = 0;
@@ -158,5 +144,10 @@ namespace Vending
                 }
         }
 
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Password password = new Password();
+            password.ShowDialog();
+        }
     }
 }

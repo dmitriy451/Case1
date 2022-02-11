@@ -168,6 +168,7 @@
     <Compile Include="Controllers\ResponseDrinksController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Controllers\VendingMachineCoins1Controller.cs" />
+    <Compile Include="Controllers\VendingMachinesController.cs" />
     <Compile Include="DataBase\Coins.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>

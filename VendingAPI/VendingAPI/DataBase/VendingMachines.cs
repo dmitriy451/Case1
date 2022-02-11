@@ -9,6 +9,7 @@
 
 namespace VendingAPI.DataBase
 {
+    using Newtonsoft.Json;
     using System;
     using System.Collections.Generic;
     
@@ -20,12 +21,14 @@ namespace VendingAPI.DataBase
             this.VendingMachineCoins = new HashSet<VendingMachineCoins>();
             this.VendingMachineDrinks = new HashSet<VendingMachineDrinks>();
         }
-    
+
         public int Id { get; set; }
         public string SecretCode { get; set; }
     
+        [JsonIgnore]
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<VendingMachineCoins> VendingMachineCoins { get; set; }
+        [JsonIgnore]
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<VendingMachineDrinks> VendingMachineDrinks { get; set; }
     }
